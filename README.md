@@ -94,11 +94,11 @@ Add the service logic under Application.Services.
 
 Register the implementation in your DI container.
 ```
-
-### 🔄 Example Usage
+----
+## 🔄 Example Usage
 Coming Soon – Example on how to trigger a payment with Paymob and handle the response.
-
-### 📦 Future Plans
+----
+## 📦 Future Plans
 ✅ Modular integration for Paymob and Fawry
 
 ⏳ Integration for Geidea
@@ -112,8 +112,8 @@ Coming Soon – Example on how to trigger a payment with Paymob and handle the r
 📃 Swagger & OpenAPI setup for public APIs
 
 🔒 Security hardening (e.g., token encryption)
-
-### 🤝 Contributing
+----
+## 🤝 Contributing
 We welcome contributions!
 
 Fork the repository
@@ -125,6 +125,7 @@ Commit your changes
 Push to the branch: git push origin feature/my-feature
 
 Open a Pull Request
+----
 
 ### 🛡 License
 This project is licensed under the MIT License.
