@@ -75,8 +75,9 @@ cd PaymentIntegrations
 ### 2. Add Configuration
 ```Configure your keys and provider settings in a secure app settings section or via dependency injection.```
 
-###3. Add a New Provider
-```To support a new payment provider:
+### 3. Add a New Provider
+```
+To support a new payment provider:
 
 Implement the following interfaces in the Core.Interfaces layer:
 
@@ -95,10 +96,13 @@ Add the service logic under Application.Services.
 Register the implementation in your DI container.
 ```
 ----
+
 ## 🔄 Example Usage
-Coming Soon – Example on how to trigger a payment with Paymob and handle the response.
+```Coming Soon – Example on how to trigger a payment with Paymob and handle the response.```
 ----
+
 ## 📦 Future Plans
+```
 ✅ Modular integration for Paymob and Fawry
 
 ⏳ Integration for Geidea
@@ -112,8 +116,11 @@ Coming Soon – Example on how to trigger a payment with Paymob and handle the r
 📃 Swagger & OpenAPI setup for public APIs
 
 🔒 Security hardening (e.g., token encryption)
+```
+
 ----
 ## 🤝 Contributing
+```
 We welcome contributions!
 
 Fork the repository
@@ -125,14 +132,19 @@ Commit your changes
 Push to the branch: git push origin feature/my-feature
 
 Open a Pull Request
+```
+
 ----
 
-### 🛡 License
+## 🛡 License
+```
 This project is licensed under the MIT License.
+```
+----
 
-📬 Contact
+
+## 📬 Contact
+```
 For bugs, feature requests, or feedback, please open an issue or contact the repository maintainer.
-
-vbnet
-Copy
-Edit
+```
+----
