@@ -17,6 +17,7 @@ The solution acts as a **bridge** between your system and external payment gatew
 The project is structured using **Clean Architecture principles** for maintainability and scalability:
 
 ## 📂 Project Structure
+```
 PaymentIntegrations
 │
 ├── Application
@@ -43,7 +44,7 @@ PaymentIntegrations
 │ └── ITransactionService.cs
 │
 └── Infrastructure (Planned)
-
+```
 
 ### 🔧 Layers Breakdown
 
